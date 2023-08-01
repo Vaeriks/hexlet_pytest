@@ -1,0 +1,1 @@
+[![Actions Status](https://github.com/Vaeriks/hexlet_pytest/workflows/hello-world/badge.svg)]
